@@ -1,0 +1,8 @@
+{
+    "organic": {
+        "base": "div#rso > div > div[data-hveid] > div[data-snc]",
+        "title": "div[data-snf][data-snhf=\"0\"] > div > div > span > a > h3",
+        "url": "div[data-snf][data-snhf=\"0\"] > div > div > span > a > div.notranslate > div > div > cite[role=\"text\"]",
+        "description":"div[data-snf][data-sncf=\"2\"] > div > span"
+    }
+}
